@@ -46,11 +46,6 @@ Phylogenetic trees were constructed using core and accessory genes. The analysis
 ## Conclusions
 This project analyzed 30 MAGs of *Prevotella pleuritidis*, revealing extensive genetic plasticity and the need for further studies to fully characterize the genetic content of this species. The role of *P. pleuritidis* in the oral microbiome, particularly during inflammatory conditions, remains unclear. Future research should focus on identifying the functions of the genes, especially those differentially expressed in strains from various inflammatory states.
 
-## How to Use
-- Clone this repository to access the project files.
-- The full analysis report is available in the [PDF file]("C:\Users\virgi\Downloads\Computational Microbial Genomic_project.pdf").
-- This repository contains code for genomic analysis, including tools for data preprocessing, gene annotation, and pangenome analysis.
-
 ## Requirements
 - Python 3.8+
 - Required packages: pandas, biopython, matplotlib, seaborn, etc.
