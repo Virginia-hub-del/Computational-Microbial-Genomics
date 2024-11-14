@@ -48,7 +48,7 @@ This project analyzed 30 MAGs of *Prevotella pleuritidis*, revealing extensive g
 
 ## How to Use
 - Clone this repository to access the project files.
-- The full analysis report is available in the [PDF file](Bioinformatics_Resources_project.pdf).
+- The full analysis report is available in the [PDF file]("C:\Users\virgi\Downloads\Computational Microbial Genomic_project.pdf").
 - This repository contains code for genomic analysis, including tools for data preprocessing, gene annotation, and pangenome analysis.
 
 ## Requirements
